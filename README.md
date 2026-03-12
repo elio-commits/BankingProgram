@@ -1,5 +1,4 @@
-# BankingApp
-## A simple CLI banking simulator built in Java
+# BankingProgram
 
 ## About
 
@@ -29,18 +28,6 @@ Enter withdrawn amount: 200.00
 Enter your choice (1-4): 1
 ----------------------
 Your balance is: $300.00
-```
-
-## How to Run
-
-### Prerequisites
-- Java JDK 17+
-
-```bash
-git clone https://github.com/yourusername/banking-app.git
-cd banking-app
-javac Main.java
-java Main
 ```
 
 ## Concepts Practiced
