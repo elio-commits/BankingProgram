@@ -1,5 +1,4 @@
 # BankingApp
-## A simple CLI banking simulator built in Java
 
 ## About
 
